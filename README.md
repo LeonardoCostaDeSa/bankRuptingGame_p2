@@ -1,6 +1,4 @@
-Claro! Aqui está um **README.md** completo e bem estruturado para o jogo **Bankrupt**. O conteúdo está dividido em seções que ajudam tanto no entendimento do jogo quanto na execução do projeto:
 
----
 
 # 🏦 Bankrupt - Simulador de Jogo de Propriedades
 
@@ -143,5 +141,3 @@ Comportamento mais vitorioso: Impulsivo
 Este projeto é de domínio público para fins acadêmicos, de aprendizado e de demonstração de simulações em jogos por computador.
 
 ---
-
-Se quiser, posso gerar esse arquivo `.md` para você baixar. Deseja isso?

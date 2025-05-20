@@ -1,0 +1,10 @@
+bankrupt\Main.class
+bankrupt\modelo\Tabuleiro.class
+bankrupt\jogo\ControllerJogo.class
+bankrupt\modelo\JogadorCauteloso.class
+bankrupt\modelo\JogadorExigente.class
+bankrupt\modelo\Jogador.class
+bankrupt\modelo\Propriedade.class
+bankrupt\config\LeitorGameConfig.class
+bankrupt\modelo\JogadorImpulsivo.class
+bankrupt\modelo\JogadorAleatorio.class
